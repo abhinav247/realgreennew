@@ -1,0 +1,23 @@
+.header{
+        height: 100%;
+        display: flex;
+        justify-content: flex-start;
+        border-bottom: 1px solid #f7f7ff;
+        background-color: #fff;
+        color: #fff;
+        align-items: center;
+}
+
+
+.navbar{
+        height: 100%;
+}
+
+.content{
+        height: 100%;
+        background-color: #eeeeee;
+}
+
+.select-box-header {
+        border: none; 
+}
